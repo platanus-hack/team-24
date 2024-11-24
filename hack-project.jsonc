@@ -6,5 +6,5 @@
     // url al logo de proyecto. mínimo 200x200, png. puede estar hosteado en el mismo repo.
     "logo_url": "https://github.com/platanus-hack/team-24/blob/main/logo.png",
     // url para acceder a su app. si es apk u otro, link de descarga directa.
-    "app_url": "https://hereda.me"
+    "app_url": "https://hi.hereda.me"
 }
