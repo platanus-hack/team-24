@@ -1,0 +1,6 @@
+[submodule "Backend"]
+	path = Backend
+	url = git@github.com:pv-hack-tercer-edad/Backend.git
+[submodule "call-frontend"]
+	path = call-frontend
+	url = git@github.com:pv-hack-tercer-edad/call-frontend.git
