@@ -1,4 +1,3 @@
-# my cool project
+# Hereda.me
 
-omg markdown is so cool
-test my deployed project [here](https://myproject.com)
+Inmortaliza los recuerdos de tus seres queridos con IA [aquí!](https://hereda.me)
